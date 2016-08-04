@@ -1,1 +1,1 @@
-Pretty much the same code as [this](https://github.com/eshamidi/techno_organ/blob/master/blinkx3/blinkx3.ino), but the main switch statement is wrapped in a function. This function takes as input 2 colors and the program #. 
+Pretty much the same code as [this](https://github.com/eshamidi/techno_organ/blob/master/blinkx3/blinkx3.ino) , but the main switch statement is wrapped in a function. This function takes as input 2 colors and the program #. 
